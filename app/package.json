@@ -1,5 +1,8 @@
 {
     "name": "hum-electron-app",
     "version": "0.1.0",
-    "main": "main.js"
+    "main": "main.js",
+    "devDependencies": {
+        "electron": "^1.8.2"
+    }
 }
